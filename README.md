@@ -33,15 +33,6 @@ En mi perfil encontrarás soluciones de software reales enfocadas en:
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leocuellar17&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Leo" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocuellar17&layout=compact&theme=tokyonight&langs_count=6" alt="Lenguajes más usados por Leo" height="190px"/>
-</p>
-
----
-
 ### 🤝 Conectemos
 Estoy abierto a oportunidades de pasantías, roles Junior en ingeniería de software, desarrollo backend, analítica de datos o ciberseguridad.
 
